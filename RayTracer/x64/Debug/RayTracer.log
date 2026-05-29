@@ -1,2 +1,5 @@
-﻿  main.cpp
-  RayTracer.vcxproj -> F:\Projects\RayTracer\x64\Debug\RayTracer.exe
+﻿  Render.cpp
+C:\Users\Admin\Desktop\RayTracer\Render.cpp(70,61): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\Admin\Desktop\RayTracer\Render.cpp(70,44): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\Admin\Desktop\RayTracer\Render.cpp(70,27): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+  RayTracer.vcxproj -> C:\Users\Admin\Desktop\RayTracer\x64\Debug\RayTracer.exe
