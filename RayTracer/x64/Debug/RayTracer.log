@@ -1,5 +1,14 @@
-﻿  Render.cpp
-C:\Users\Admin\Desktop\RayTracer\Render.cpp(70,61): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
-C:\Users\Admin\Desktop\RayTracer\Render.cpp(70,44): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
-C:\Users\Admin\Desktop\RayTracer\Render.cpp(70,27): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+﻿  Constants.cpp
+  Game.cpp
+  HittableList.cpp
+  HittableList.h
+  interval.cpp
+  main.cpp
+  Render.cpp
+C:\Users\Admin\Desktop\RayTracer\Render.cpp(83,112): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\Admin\Desktop\RayTracer\Render.cpp(83,78): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\Admin\Desktop\RayTracer\Render.cpp(83,44): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+  Sphere.cpp
+  Generating Code...
+RayTracer\x64\Debug\HittableList.obj : warning LNK4042: object specified more than once; extras ignored
   RayTracer.vcxproj -> C:\Users\Admin\Desktop\RayTracer\x64\Debug\RayTracer.exe

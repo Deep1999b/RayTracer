@@ -1,4 +1,8 @@
 C:\Users\Admin\Desktop\RayTracer\Constants.cpp;C:\Users\Admin\Desktop\RayTracer\RayTracer\x64\Debug\Constants.obj
 C:\Users\Admin\Desktop\RayTracer\Game.cpp;C:\Users\Admin\Desktop\RayTracer\RayTracer\x64\Debug\Game.obj
+C:\Users\Admin\Desktop\RayTracer\HittableList.cpp;C:\Users\Admin\Desktop\RayTracer\RayTracer\x64\Debug\HittableList.obj
+C:\Users\Admin\Desktop\RayTracer\HittableList.h;C:\Users\Admin\Desktop\RayTracer\RayTracer\x64\Debug\HittableList.obj
+C:\Users\Admin\Desktop\RayTracer\interval.cpp;C:\Users\Admin\Desktop\RayTracer\RayTracer\x64\Debug\interval.obj
 C:\Users\Admin\Desktop\RayTracer\main.cpp;C:\Users\Admin\Desktop\RayTracer\RayTracer\x64\Debug\main.obj
 C:\Users\Admin\Desktop\RayTracer\Render.cpp;C:\Users\Admin\Desktop\RayTracer\RayTracer\x64\Debug\Render.obj
+C:\Users\Admin\Desktop\RayTracer\Sphere.cpp;C:\Users\Admin\Desktop\RayTracer\RayTracer\x64\Debug\Sphere.obj

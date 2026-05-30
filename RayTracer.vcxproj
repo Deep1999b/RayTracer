@@ -138,14 +138,22 @@
   <ItemGroup>
     <ClCompile Include="Constants.cpp" />
     <ClCompile Include="Game.cpp" />
+    <ClCompile Include="HittableList.cpp" />
+    <ClCompile Include="HittableList.h" />
+    <ClCompile Include="interval.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Render.cpp" />
+    <ClCompile Include="Sphere.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Constants.h" />
     <ClInclude Include="Game.h" />
+    <ClInclude Include="HitRecord.h" />
+    <ClInclude Include="Hittable.h" />
+    <ClInclude Include="Interval.h" />
     <ClInclude Include="Ray.h" />
     <ClInclude Include="Render.h" />
+    <ClInclude Include="Sphere.h" />
     <ClInclude Include="Vec3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

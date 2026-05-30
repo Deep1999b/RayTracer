@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\RayTracer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\interval.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:interval.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\HitRecord.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:HitRecord.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Constants.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Constants.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\HittableList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:HittableList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|C:\\Users\\Admin\\Desktop\\RayTracer\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{633F91ED-65C6-4B73-9868-7C27FDC551AD}|RayTracer.vcxproj|solutionrelative:Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,46 +53,98 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 175,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Vec3.h",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Vec3.h",
-              "RelativeDocumentMoniker": "Vec3.h",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Vec3.h",
-              "RelativeToolTip": "Vec3.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE4AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "HittableList.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\HittableList.h",
+              "RelativeDocumentMoniker": "HittableList.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\HittableList.h",
+              "RelativeToolTip": "HittableList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-29T06:42:14.045Z",
+              "WhenOpened": "2026-05-30T11:54:32.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interval.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Interval.h",
+              "RelativeDocumentMoniker": "Interval.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Interval.h",
+              "RelativeToolTip": "Interval.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-30T11:48:23.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Ray.h",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Ray.h",
-              "RelativeDocumentMoniker": "Ray.h",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Ray.h",
-              "RelativeToolTip": "Ray.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Title": "Sphere.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Sphere.h",
+              "RelativeDocumentMoniker": "Sphere.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Sphere.h",
+              "RelativeToolTip": "Sphere.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-29T06:46:23.904Z",
+              "WhenOpened": "2026-05-30T07:18:55.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Render.h",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Render.h",
               "RelativeDocumentMoniker": "Render.h",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Render.h",
               "RelativeToolTip": "Render.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-29T05:33:44.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ray.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Ray.h",
+              "RelativeDocumentMoniker": "Ray.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Ray.h",
+              "RelativeToolTip": "Ray.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-30T11:56:37.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hittable.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Hittable.h",
+              "RelativeDocumentMoniker": "Hittable.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Hittable.h",
+              "RelativeToolTip": "Hittable.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-30T12:07:59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HitRecord.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\HitRecord.h",
+              "RelativeDocumentMoniker": "HitRecord.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\HitRecord.h",
+              "RelativeToolTip": "HitRecord.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-30T12:41:57.521Z",
               "EditorCaption": ""
             },
             {
@@ -95,80 +155,54 @@
               "RelativeDocumentMoniker": "Constants.h",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Constants.h",
               "RelativeToolTip": "Constants.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-28T17:15:37.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Game.h",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Game.h",
-              "RelativeDocumentMoniker": "Game.h",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Game.h",
-              "RelativeToolTip": "Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-29T10:37:39.169Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 225,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-28T16:50:55.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Game.cpp",
-              "RelativeDocumentMoniker": "Game.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Game.cpp",
-              "RelativeToolTip": "Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-29T10:38:33.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Render.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Render.cpp",
               "RelativeDocumentMoniker": "Render.cpp",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Render.cpp",
               "RelativeToolTip": "Render.cpp",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFIAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-29T05:36:54.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Constants.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Constants.cpp",
-              "RelativeDocumentMoniker": "Constants.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Constants.cpp",
-              "RelativeToolTip": "Constants.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Sphere.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\Sphere.cpp",
+              "RelativeDocumentMoniker": "Sphere.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\Sphere.cpp",
+              "RelativeToolTip": "Sphere.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-29T06:09:46.285Z",
+              "WhenOpened": "2026-05-30T07:21:47.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "interval.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\RayTracer\\interval.cpp",
+              "RelativeDocumentMoniker": "interval.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\RayTracer\\interval.cpp",
+              "RelativeToolTip": "interval.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-30T12:24:27.864Z",
               "EditorCaption": ""
             }
           ]
